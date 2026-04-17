@@ -1,4 +1,3 @@
-![](https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-6/656575623_3812201355754131_4971014912449717725_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=Dv3MuBHc1Q8Q7kNvwHWw1jj&_nc_oc=AdpzggpQjeYMp8hq2EIn0nqzT9A4bQYvJAGN0B_NCG3SwvlSxN-hUgpj1Gn4IuAqRNU&_nc_zt=23&_nc_ht=scontent.fdac139-1.fna&_nc_gid=g2A186CoptJm2x_wwl6CWA&_nc_ss=7a3a8&oh=00_Af2azyIZxjTOkiQg-vWcfg3L1q7rekAvEuTSbTYp-tlTcg&oe=69E86059)
 # Hi there 👋, I'm Wazihatulla Wasti
 ## Full-Stack Web Developer | Laravel • PHP • JS • MySQL | Tailwind • Alpine.js • Bootstrap
 
@@ -15,7 +14,20 @@ Skills: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Alpine.js, PHP, Laravel,
 - ⚡ Fun fact: I enjoy learning new web technologies and building creative web projects 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wasti66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/wasti66webDeveloper/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Wasti66&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wasti66)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wasti66)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wasti66&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Wasti66/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/Wasti66)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Wasti66)  
+
+
 
