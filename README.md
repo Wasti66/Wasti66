@@ -1,3 +1,4 @@
+![](https://pbs.twimg.com/profile_banners/1362817569657294848/1776451298/1500x500)
 # Hi there 👋, I'm Wazihatulla Wasti
 ## Full-Stack Web Developer | Laravel • PHP • JS • MySQL | Tailwind • Alpine.js • Bootstrap
 
