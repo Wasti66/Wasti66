@@ -1,5 +1,5 @@
 ![](https://pbs.twimg.com/profile_banners/1362817569657294848/1776451298/1500x500)
-# Hi there 👋, I'm Wazihatulla Wasti
+# Hi there, 👋 I'm Wazihatulla Wasti
 ## Full-Stack Web Developer | Laravel • PHP • JS • MySQL | Tailwind • Alpine.js • Bootstrap
 
 I am Wazihatulla Wasti, a Computer Science and Engineering graduate with a strong passion for web development and modern web technologies. I enjoy building dynamic and responsive web applications and continuously improving my skills in both front-end and back-end development. I have hands-on experience and strong knowledge in Laravel, PHP, JavaScript, MySQL, Bootstrap, Tailwind CSS, and Alpine.js. I am particularly interested in backend logic development, scalable web applications, and creating clean, user-friendly interfaces. I am always eager to learn new technologies and grow as a professional full-stack web developer.
